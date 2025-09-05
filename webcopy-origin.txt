@@ -1,0 +1,188 @@
+Uri: https://www.kpffoundry.com/arrow.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\arrow.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/arrowBack.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\arrowBack.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/bars1.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\bars1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/contact2.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\contact2.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/contact2.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\contact2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/coreRoom2.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\coreRoom2.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/customerService.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\customerService.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/faq.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\faq.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/faq.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\faq.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/finishEquip.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\finishEquip.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/finishing2.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\finishing2.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/foundry_east.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\foundry_east.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/foundry_logo.gif
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\foundry_logo.gif
+Content Type: image/gif
+
+Uri: https://www.kpffoundry.com/furnace2.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\furnace2.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/furnaceEquip.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\furnaceEquip.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/heatTreat2.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\heatTreat2.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/history2.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\history2.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/history2.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\history2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/Homepage2.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\Homepage2.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/ISO2.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\ISO2.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/ISOCertificate.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\ISOCertificate.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/isologo.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\isologo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/machineEquip.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\machineEquip.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/machineShop2.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\machineShop2.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/mm_menu.js
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\mm_menu.js
+Content Type: application/javascript
+
+Uri: https://www.kpffoundry.com/molding2.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\molding2.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/moldingEquip.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\moldingEquip.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/patternEquip.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\patternEquip.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/patternShop2.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\patternShop2.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/products2.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\products2.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/products2.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\products2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/services2.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\services2.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/services2.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\services2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/shipping2.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\shipping2.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/testing2.htm
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\testing2.htm
+Content Type: text/html
+
+Uri: https://www.kpffoundry.com/web picts/finishing.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\web picts\finishing.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/web picts/furnace.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\web picts\furnace.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/web picts/heatTreat.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\web picts\heatTreat.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/web picts/machineShop.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\web picts\machineShop.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/web picts/moldingLine.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\web picts\moldingLine.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/web picts/pattern01.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\web picts\pattern01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/web picts/pattern02.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\web picts\pattern02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/web picts/patternStorage.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\web picts\patternStorage.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/web picts/pouring.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\web picts\pouring.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/web picts/pouring02.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\web picts\pouring02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/web picts/pouring03.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\web picts\pouring03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.kpffoundry.com/web picts/shipping.jpg
+File Name: C:\Downloaded Web Sites\www.kpffoundry.com\web picts\shipping.jpg
+Content Type: image/jpeg
+
